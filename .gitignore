@@ -54,8 +54,7 @@ logs/
 # Temporary files
 *.tmp
 *.temp
-test_*.py
-check_*.py
+# Note: test_retrieval.py and check_*.py in scripts/ are kept as they're useful tools
 
 # Knowledge base ID (user-specific)
 # Update this if you want to keep your KB ID private
