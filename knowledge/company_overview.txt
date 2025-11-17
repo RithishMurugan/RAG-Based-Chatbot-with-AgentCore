@@ -1,0 +1,11 @@
+Our company, NovaTech Solutions, is an AI-driven software development firm headquartered in Boston, MA.
+We specialize in providing intelligent automation, data analytics, and machine learning solutions for enterprise clients.
+Founded in 2015, NovaTech has expanded operations to over 20 countries.
+Our mission is to simplify complex business operations using AI-powered automation.
+We partner with AWS, Google Cloud, and Microsoft Azure for cloud infrastructure and AI deployments.
+In 2024, NovaTech was recognized by Gartner as one of the top 10 emerging AI software providers in North America.
+Key focus areas include:
+- AI Consulting and Custom Model Development
+- Cloud-native Application Design
+- Enterprise Automation Solutions
+- Predictive Analytics for Retail and Healthcare

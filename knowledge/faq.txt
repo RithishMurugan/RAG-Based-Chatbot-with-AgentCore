@@ -1,0 +1,14 @@
+Q: What industries does NovaTech serve?
+A: NovaTech provides AI automation and analytics solutions for healthcare, retail, finance, and logistics sectors.
+
+Q: Does NovaTech use AWS services?
+A: Yes. NovaTech uses multiple AWS services including Bedrock, AgentCore, S3, and Lambda for AI deployments.
+
+Q: How often is the InsightPro platform updated?
+A: Product updates are released every quarter, focusing on model accuracy and integration improvements.
+
+Q: Can InsightPro integrate with existing enterprise systems?
+A: Yes. It supports integrations through REST APIs, webhooks, and native cloud connectors.
+
+Q: Is customer data secure?
+A: Absolutely. NovaTech complies with HIPAA, SOC 2, and GDPR standards to ensure data protection.
