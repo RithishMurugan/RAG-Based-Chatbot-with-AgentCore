@@ -257,16 +257,6 @@ Check knowledge base status:
 python scripts/check_kb_status.py
 ```
 
-## License
-
-This project is provided as-is for educational and development purposes.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
 ## Acknowledgments
 
